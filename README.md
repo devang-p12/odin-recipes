@@ -1,1 +1,2 @@
 # odin-recipes
+This Project is about testing everything i have learnt upto now. I will be working with basic HTML can be creating a website which might contain text headings and images. I am really excited and confident about it
